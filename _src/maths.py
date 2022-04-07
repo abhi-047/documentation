@@ -3,9 +3,10 @@ class basic_1:
     This class containing the grade 1 mathematical operations: Addition and substract.
 
     :param num1: First number
-    :type num1: float, int
+    :type num1: float
     :param num2: Second number
     :type num2: float
+
 
     """
     def __init__(self,num1,num2):

@@ -17,9 +17,9 @@ sys.path.insert(0, os.path.abspath('../_src'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Python_bhagath'
-copyright = '2022, Bhagath'
-author = 'Bhagath'
+project = 'python_abhishek'
+copyright = '2022, abhishek'
+author = 'abhishek'
 
 # The full version, including alpha/beta/rc tags
 release = '007'
@@ -30,7 +30,7 @@ release = '007'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [ 'sphinx.ext.autodoc'
+extensions = ['sphinx.ext.autodoc'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
